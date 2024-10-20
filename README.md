@@ -4,7 +4,7 @@
 
 ### - $\textcolor{green}{Use\ IIITG\ mail\ to\ access\ the\ course\ materials.\}$
 
-### - $\textcolor{red}{Personal\ mail\ will\ have\ no\ access.\ Do \ not\ send\ for\ request\ access\!!!\}$
+### - $\textcolor{red}{Personal\ mail\ will\ have\ no\ access.\ Do \ not\ send\ request\  !!!\}$
 
 ### Lecture Details || Till Mid Semester
 
