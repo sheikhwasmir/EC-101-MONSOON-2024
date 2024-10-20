@@ -7,7 +7,19 @@
 ### - $\textcolor{red}{Personal\ mail\ will\ have\ no\ access.\ Do \ not\ send\ for\ request\ access\!!!\}$
 
 ### Lecture Details || Till Mid Semester
-| Sl. No. | Date | Day              | Topic | Slide / Lecture Note / Text Book |                                                                                              
+
+| Sl. No. | Date of Lecture Session | Topic | Slide / Lecture Note|                                                                                              
+|:---:|:--:|:--|:--------------------------:|
+| 1       | 13-01-2024      |Lecture 6 & 7 - Zener Diode & Diode Rectifier        | [Click here](https://drive.google.com/file/d/1II2kEuDeOIMcXgOpxD5ueqF1_CNYf_el/view?usp=drive_link)| 
+
+
+
+
+
+
+
+| Sl. No. | Date | Day              | Topic | Slide / Lecture Note / Text Book |  
+
 |:-------:|:----:|:-----------------|:------|:-------------------------------:|
 | 1       | 16-Aug-2024 | Fri      | Lecture 01 - Introduction                 | [Text Book Pages: 01--05](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)|
 | 2       | 19-Aug-2024 | Mon      |Lecture 02 - Number Systems & Conversions | [Text Book Pages: 05--11](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)|
