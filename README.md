@@ -45,8 +45,8 @@
 | 23       | 04-Oct-2024 | Fri (Afternoon)      | Lecture 23 ~ PAL with Implementation of Combinational Cicuits | [Text Book Pages: 192--196](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)| [Text Book Pages: 325--329](https://drive.google.com/file/d/1GG-miG_277qthTCFn8XUaD2Y0xKo8zCO/view?usp=drive_link)|
 | 24       | 14-Oct-2024 | Mon     | Lecture 24 ~ Return and Discussion of  Marked Mid Sem Answer Scipts | NA| NA |
 | 25       | 16-Oct-2024 | Wed     | Lecture 25 ~ Sequential Circuits I - Latches | [Slide](https://drive.google.com/file/d/1XEYDZhIj-wg2DeBpJgC-PMKNfSmEyjaL/view?usp=drive_link)| [Text Book Pages: 182--186](https://drive.google.com/file/d/1PTlgBqAO4ofX4HbTaUM2y_oYx1koRbWP/view?usp=drive_link)|
-| 26       | 18-Oct-2024 | Fri      | Lecture 26 ~ Sequential Circuits II - Flip Flops | [Click here for Slide](https://drive.google.com/file/d/1uJIcvXcpoqmJhlvbHSxh7Ydc3gQRgS8l/view?usp=drive_link)| [NA|
-| 27       | 19-Oct-2024 | Sat (Compensation)     | Lecture 27 ~ Sequential Circuits III - Flip Flops (Contd.) | [Lecture Note](https://drive.google.com/file/d/1TsOVEGDd3wIyTZ3TPvsWYKbKDNiVTmYk/view?usp=drive_link)| [NA|
+| 26       | 18-Oct-2024 | Fri      | Lecture 26 ~ Sequential Circuits II - Flip Flops | [Click here for Slide](https://drive.google.com/file/d/1uJIcvXcpoqmJhlvbHSxh7Ydc3gQRgS8l/view?usp=drive_link)| NA|
+| 27       | 19-Oct-2024 | Sat (Compensation)     | Lecture 27 ~ Sequential Circuits III - Flip Flops (Contd.) | [Lecture Note](https://drive.google.com/file/d/1TsOVEGDd3wIyTZ3TPvsWYKbKDNiVTmYk/view?usp=drive_link)| NA|
 | 28       | 21-Oct-2024 | Mon     | Lecture 28 ~ Sequential Circuits IV - F/F Conversion | [Pending]()| [Pending]()|
 
 ### Second Quiz 🢣 $\textcolor{red}{To\ be\ announced\ later\}$ 
