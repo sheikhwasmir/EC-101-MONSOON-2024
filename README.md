@@ -10,7 +10,6 @@
 
  
 | Sl. No. | Date | Day              | Topic | Slide / Lecture Note / Text Book |  
-
 |:-------:|:----:|:-----------------|:------|:-------------------------------:|
 | 1       | 16-Aug-2024 | Fri      | Lecture 01 - Introduction                 | [Text Book Pages: 01--05](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)|
 | 2       | 19-Aug-2024 | Mon      |Lecture 02 - Number Systems & Conversions | [Text Book Pages: 05--11](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)|
