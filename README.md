@@ -8,16 +8,7 @@
 
 ### Lecture Details || Till Mid Semester
 
-| Sl. No. | Date of Lecture Session | Topic | Slide / Lecture Note|                                                                                              
-|:---:|:--:|:--|:--------------------------:|
-| 1       | 13-01-2024      |Lecture 6 & 7 - Zener Diode & Diode Rectifier        | [Click here](https://drive.google.com/file/d/1II2kEuDeOIMcXgOpxD5ueqF1_CNYf_el/view?usp=drive_link)| 
-
-
-
-
-
-### 
-
+ 
 | Sl. No. | Date | Day              | Topic | Slide / Lecture Note / Text Book |  
 
 |:-------:|:----:|:-----------------|:------|:-------------------------------:|
