@@ -1,4 +1,4 @@
-# EC 101 DIGITAL DESIGN [MONSOON 2024]
+# EC 101 || DIGITAL DESIGN || MONSOON 2024 || ACADEMIC YEAR 2024-25
 
 ### Check your attendance ----- $\textcolor{blue}{Updated\ on\ 10th\ September\ 2024\}$ ------ [Click here](https://docs.google.com/spreadsheets/d/1g6Bkx4F0SZnFVuvpEhR2SipWDqnjD6bE/edit?usp=drive_link&ouid=116384381532910939364&rtpof=true&sd=true)
 
