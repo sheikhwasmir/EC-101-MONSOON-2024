@@ -44,8 +44,8 @@
 | 24       | 14-Oct-2024 | Mon     | Lecture 24 ~ Return and Discussion of  Marked Mid Sem Answer Scipts | NA| NA |
 | 25       | 16-Oct-2024 | Wed     | Lecture 25 ~ Sequential Circuits - Latches | [Slide](https://drive.google.com/file/d/1XEYDZhIj-wg2DeBpJgC-PMKNfSmEyjaL/view?usp=drive_link)| [Text Book Pages: 182--186](https://drive.google.com/file/d/1PTlgBqAO4ofX4HbTaUM2y_oYx1koRbWP/view?usp=drive_link)|
 | 26       | 18-Oct-2024 | Fri      | Lecture 26 ~ Sequential Circuits - Flip Flops | [Pending]()| [Pending]()|
-| 27       | 19-Oct-2024 | Sat (Compensation)     | Lecture 27 ~ Sequential Circuits - F/F Conversion | [Pending]()| [Pending]()|
-
+| 27       | 19-Oct-2024 | Sat (Compensation)     | Lecture 27 ~ Sequential Circuits - Flip Flops (Contd.) | [Pending]()| [Pending]()|
+| 28       | 21-Oct-2024 | Mon     | Lecture 28 ~ Sequential Circuits - F/F Conversion | [Pending]()| [Pending]()|
 
 ### Second Quiz 🢣 $\textcolor{red}{To\ be\ announced\ later\}$ 
 ### End Semester Exam 🢣 $\textcolor{red}{To\ be\ held\ between\ 30th\ November\ and\ 4th\ December\ 2024\}$
