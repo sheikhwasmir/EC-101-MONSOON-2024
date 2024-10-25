@@ -47,7 +47,8 @@
 | 25       | 16-Oct-2024 | Wed     | Lecture 25 ~ Sequential Circuits I - Latches | [Slide](https://drive.google.com/file/d/1XEYDZhIj-wg2DeBpJgC-PMKNfSmEyjaL/view?usp=drive_link)| [Text Book Pages: 182--186](https://drive.google.com/file/d/1PTlgBqAO4ofX4HbTaUM2y_oYx1koRbWP/view?usp=drive_link)|
 | 26       | 18-Oct-2024 | Fri      | Lecture 26 ~ Sequential Circuits II - Flip Flops | [Click here for Slide](https://drive.google.com/file/d/1uJIcvXcpoqmJhlvbHSxh7Ydc3gQRgS8l/view?usp=drive_link)| NA|
 | 27       | 19-Oct-2024 | Sat (Compensation)     | Lecture 27 ~ Sequential Circuits III - Flip Flops (Contd.) | [Lecture Note](https://drive.google.com/file/d/1TsOVEGDd3wIyTZ3TPvsWYKbKDNiVTmYk/view?usp=drive_link)| NA|
-| 28       | 21-Oct-2024 | Mon     | Lecture 28 ~ Sequential Circuits IV - F/F Conversion | [Pending]()| [Pending]()|
+| 28       | 21-Oct-2024 | Mon     | Lecture 28 ~ Sequential Circuits IV - Master-SLave & T F/Fs | [Pending]()| [Pending]()|
+| 29       | 23-Oct-2024 | Wed     | Lecture 29 ~ Sequential Circuits V - F/F Conversion | [Slide](https://drive.google.com/file/d/1Azj6CUrXtQWI-eksDR0-yYB68By23Zp8/view?usp=drive_link)| NA|
 
 ### Second Quiz 🢣 $\textcolor{red}{To\ be\ announced\ later\}$ 
 ### End Semester Exam 🢣 $\textcolor{red}{To\ be\ held\ between\ 30th\ November\ and\ 4th\ December\ 2024\}$
