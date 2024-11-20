@@ -50,8 +50,8 @@
 | 28       | 21-Oct-2024 | Mon     | Lecture 28 ~ Sequential Circuits IV - Master-SLave & T F/Fs | [Pending]()| [Pending]()|
 | 29       | 23-Oct-2024 | Wed     | Lecture 29 ~ Sequential Circuits V - F/F Conversion | [Slide](https://drive.google.com/file/d/1Azj6CUrXtQWI-eksDR0-yYB68By23Zp8/view?usp=drive_link)| NA|
 
-### Second Quiz 🢣 $\textcolor{red}{To\ be\ announced\ later\}$ 
-### End Semester Exam 🢣 $\textcolor{red}{To\ be\ held\ between\ 30th\ November\ and\ 4th\ December\ 2024\}$
+### Second Quiz 🢣 $\textcolor{red}{Held \ on\ 19th\ November\ 2024\}$ 
+### End Semester Exam 🢣 $\textcolor{red}{To\ be\ held\ on\ 2nd\ Decmeber\ ,\ [9:30am\ to\ 12:30pm]\}$
 
 
 ### Text Books & Other Materials
